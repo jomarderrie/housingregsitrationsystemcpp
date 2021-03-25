@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kimjongun/CLionProjects/housingregistrationsystem/Apartment.h
+string
+-
+
+C:/Users/kimjongun/CLionProjects/housingregistrationsystem/ApartmentBuilding.h
+memory
+-
+vector
+-
+Apartment.h
+C:/Users/kimjongun/CLionProjects/housingregistrationsystem/Apartment.h
+
+C:/Users/kimjongun/CLionProjects/housingregistrationsystem/House.h
+string
+-
+
+C:/Users/kimjongun/CLionProjects/housingregistrationsystem/Street.cpp
+fstream
+-
+iostream
+-
+Street.h
+C:/Users/kimjongun/CLionProjects/housingregistrationsystem/Street.h
+
+C:/Users/kimjongun/CLionProjects/housingregistrationsystem/Street.h
+vector
+-
+memory
+-
+House.h
+C:/Users/kimjongun/CLionProjects/housingregistrationsystem/House.h
+ApartmentBuilding.h
+C:/Users/kimjongun/CLionProjects/housingregistrationsystem/ApartmentBuilding.h
+
